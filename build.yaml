@@ -1,1 +1,5 @@
 scala.version: '2.9.1'
+
+artifacts:
+  hsqldb: org.hsqldb:hsqldb:jar:2.2.4
+  scalaquery: org.scalaquery:scalaquery_2.9.0-1:jar:0.9.5
