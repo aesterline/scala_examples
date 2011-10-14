@@ -1,9 +1,12 @@
-Scala Example Code
-===================
+= Scala Example Code
 
 This is my repository of scala example code.    It mostly contains tests that are designed to show some aspect of scala
 I am trying to learn.
 
-If you want to run it, make sure you have buildr installed.   Then run:
+== Current Topics
 
-buildr test
+* By-Name Parameters
+
+== Usage
+
+    buildr test
