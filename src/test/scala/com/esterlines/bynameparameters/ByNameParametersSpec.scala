@@ -3,6 +3,11 @@ package com.esterlines.bynameparameters
 import org.scalatest.FlatSpec
 import org.scalatest.matchers.ShouldMatchers
 
+/*
+ By-Name Parameters seem to be a good way to lazily evaluate method parameters.    I have seen this technique used in
+ scala logging frameworks to only generate the logging messages when the message will actually get logged (right logging
+ level).
+ */
 class ByNameParametersSpec extends FlatSpec with ShouldMatchers {
   behavior of "By-Name Parameters"
 

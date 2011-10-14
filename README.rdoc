@@ -5,7 +5,7 @@ I am trying to learn.
 
 == Current Topics
 
-* By-Name Parameters
+* By-Name Parameters (com.esterlines.bynameparameters.ByNameParametersSpec) - Lazy methog parameters?
 
 == Usage
 
