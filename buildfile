@@ -2,7 +2,7 @@ require 'buildr/scala'
 
 repositories.remote << 'http://www.ibiblio.org/maven2/'
 
-define 'scala_practice' do
+define 'scala_examples' do
   compile.with :scalaquery, :jline
 
   test.with :hsqldb
