@@ -3,9 +3,16 @@
 This is my repository of scala example code.    It mostly contains tests that are designed to show some aspect of scala
 I am trying to learn.
 
-== Current Topics
+== Example Topics
 
-* By-Name Parameters (com.esterlines.scala.functions.bynameparameters.ByNameParametersSpec) - Lazy methog parameters?
+* Case Classes
+* Either
+* Functions
+** By-Name Parameters (com.esterlines.scala.functions.bynameparameters.ByNameParametersSpec) - Lazy method parameters?
+** Tupled (Not yet implemented)
+** Currying (Not yet implemented)
+* For Comprehisions
+* Option
 
 == Usage
 
