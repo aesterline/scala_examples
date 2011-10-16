@@ -8,9 +8,9 @@ I am trying to learn.
 * Case Classes
 * Either
 * Functions
- * By-Name Parameters (com.esterlines.scala.functions.bynameparameters.ByNameParametersSpec) - Lazy method parameters?
- * Tupled (Not yet implemented)
- * Currying (Not yet implemented)
+  * By-Name Parameters (com.esterlines.scala.functions.bynameparameters.ByNameParametersSpec) - Lazy method parameters?
+  * Tupled (Not yet implemented)
+  * Currying (Not yet implemented)
 * For Comprehisions
 * Option (com.esterlines.scala.options.OptionUsageSpec)
 
