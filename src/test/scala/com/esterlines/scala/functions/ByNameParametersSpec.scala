@@ -1,4 +1,4 @@
-package com.esterlines.bynameparameters
+package com.esterlines.scala.functions
 
 import org.scalatest.FlatSpec
 import org.scalatest.matchers.ShouldMatchers

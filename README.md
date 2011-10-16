@@ -8,7 +8,7 @@ I am trying to learn.
 * Case Classes
 * Either
 * Functions
-    * By-Name Parameters(Lazy method parameters) - `com.esterlines.scala.functions.bynameparameters.ByNameParametersSpec`
+    * By-Name Parameters(Lazy method parameters) - `com.esterlines.scala.functions.ByNameParametersSpec`
     * Tupled (Not yet implemented)
     * Currying (Not yet implemented)
 * For Comprehisions
